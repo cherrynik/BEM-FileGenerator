@@ -1,3 +1,5 @@
+BEM is a web development methodology. [Read more here](https://en.bem.info/).
+
 Try also compile `bem.bat` into `bem.exe` file and save its path in user's env variables.
 Then you can call the command everywhere you want, just by typing `bem` in terminal.
 
